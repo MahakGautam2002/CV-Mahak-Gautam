@@ -498,13 +498,13 @@ section .title::after{
 }
 
 .Experience .box-container .box .content {
-    background: rgb(99, 212, 246);
+    background: rgb(150, 151, 152);
     padding:1.5rem;
     box-shadow: 0.5rem 1rem rgb(70, 68, 68);
     border-radius: .5rem;
 }
 .Experience .box-container .box  :hover {
-    background: rgb(196, 218, 140);
+    background: rgb(208, 209, 206);
     
 }
 
